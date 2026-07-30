@@ -2,13 +2,9 @@
 
 **End-to-end NLP project:** train Continuous Bag-of-Words (CBOW) word embeddings on English news text, inspect semantic quality, and measure transfer to a real classification task.
 
-Built as a Language Modelling coursework project by **Azaliia Agisheva** and **Hryhorii Samofatov**.
+Built as a Language Modelling coursework project by **Azaliia Agisheva**.
 
 ---
-
-## Why this project matters (for recruiters)
-
-This is not a tutorial copy-paste. It shows practical junior AI / ML engineer skills:
 
 - Implementing a classic neural language model (CBOW) in **TensorFlow / Keras**
 - Building a full experiment loop: data → training → evaluation → comparison
@@ -146,9 +142,5 @@ jupyter notebook word_embeddings.ipynb
 
 ---
 
-## Authors
-
-- Azaliia Agisheva
-- Hryhorii Samofatov
 
 *Language Modelling course project (2025–2026).*
